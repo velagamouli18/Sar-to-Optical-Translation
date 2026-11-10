@@ -1,0 +1,5 @@
+numpy>=1.24
+tifffile>=2023.7
+tqdm>=4.65
+einops>=0.7
+# Install torch separately using the build that matches your CPU/CUDA system.

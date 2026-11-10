@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+CROMA_base.pt
+embeddings_readme_normalized/
+retrieval_results.csv

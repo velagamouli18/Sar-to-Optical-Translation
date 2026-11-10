@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+logs/
+*.pth
+*.pt
+*.ckpt
+.train_mask_class_counts_*.json
+.val_mask_class_counts_*.json
+.test_mask_class_counts_*.json
